@@ -7,10 +7,10 @@ public class Variables {
     char grade = 'A';
     boolen isStudent = true;
 
-  system.out.print("Name:" +name);
-  system.out.print("Age:" +age);
-  system.out.print("Height:" +height);
-  system.out.print("Grade:" +grade);
-  system.out.print("Student:" +isStudent);
+  system.out.println("Name:" +name);
+  system.out.println("Age:" +age);
+  system.out.println("Height:" +height);
+  system.out.println("Grade:" +grade);
+  system.out.println("Student:" +isStudent);
   }
 }
